@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Regan Timsina</h1>
 <h3 align="center">A passionate Javascript developer, mostly focused on React Native and React app development</h3>
 
+<br />
+
 - 🌱 I’m currently learning **Full stack, AI Agents**
 
 - 👨‍💻 All of my projects are available at [https://linkedin.com/in/regan-timsina](https://linkedin.com/in/regan-timsina)
