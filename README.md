@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Regan Timsina</h1>
-<h3 align="center">A passionate Javascript developer, mostly focused on React Native and ReactJS app development</h3>
-
-<br />
+<h3 align="center">A passionate Javascript developer, mostly focused on React Native and React app development</h3>
 
 - 🌱 I’m currently learning **Full stack, AI Agents**
 
