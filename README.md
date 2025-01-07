@@ -1,4 +1,4 @@
-<img src="github-banner.png" width="100%" />
+<img src="github-banner.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Regan Timsina</h1>
 <h3 align="center">A passionate Javascript developer, mostly focused on React Native and React app development</h3>
