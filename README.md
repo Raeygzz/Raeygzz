@@ -24,4 +24,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raeygzz&label=Profile%20views&color=0e75b6&style=flat" alt="raeygzz" /> </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
